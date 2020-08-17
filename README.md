@@ -44,6 +44,11 @@ The third job - the first task
     
     
     
+    <h1 Align="center">Pricing</h1>
+    <P Align="center" > Quickly build an effective pricing for your potential customers with this<BR>
+     Bootstrap example.Its built with default Bootstrap components and utilities with<BR> lIttle customization</P>
+    
+    
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
