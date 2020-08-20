@@ -97,7 +97,72 @@ The third job - the first task
  </div>
 </div>
 </div>
+   
+   
+   <HR ALIGN="center">
+<!-- Footer -->
+<footer class="page-footer font-small teal pt-4">
+
+  <!-- Footer Text -->
+  <div class="container-fluid text-center text-md-center">
+
+    <!-- Grid row -->
+    <div class="row">
+
+      <!-- Grid column -->
+      <div class="col-md-3 mt-md-0 mt-3">
     
+
+
+    <img src="D:\ggg.png" width="30" height="30" alt="" ><br>
+© 2017-2018
+ 
+
+      </div>
+ <div class="col-md-2 mt-md-0 mt-3">
+
+        <!-- Content -->
+        <h5 class="text-uppercase font-weight-bold">Features</h5>
+        <p>Cool stuff<br> Random features<br>Team feature<br>Stuff for developers<br>Another one<br>Laste time</p>
+
+      </div>
+
+ <div class="col-md-2 mt-md-0 mt-3">
+
+        <!-- Content -->
+        <h5 class="text-uppercase font-weight-bold">Resources</h5>
+        <p>Resource<br> Resource name<br>Another resource<br>Final resource</p>
+
+      </div>
+
+      <!-- Grid column -->
+
+      <!-- hr class="clearfix w-100 d-md-none pb-3" -->
+
+      <!-- Grid column -->
+      <div class="col-md-2 mb-md-0 mb-3">
+
+        <!-- Content -->
+        <h5 class="text-uppercase font-weight-bold">About</h5>
+        <p>Team<br>Location<br>Privacy<br>Terms</p>
+
+      </div>
+      <!-- Grid column -->
+
+    </div>
+    <!-- Grid row -->
+
+  </div>
+  <!-- Footer Text -->
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">
+   
+  </div>
+  <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
     
 
     <!-- Optional JavaScript -->
