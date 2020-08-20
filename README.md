@@ -47,6 +47,56 @@ The third job - the first task
     <h1 Align="center">Pricing</h1>
     <P Align="center" > Quickly build an effective pricing for your potential customers with this<BR>
      Bootstrap example.Its built with default Bootstrap components and utilities with<BR> lIttle customization</P>
+     
+     <div class="container mt-5 mb- 4" >
+  <div class="row" Align="center">
+<div class="col-md-4 mt-3" >
+<div class="card">
+  <div class="card-header">
+    free
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">$0&nbsp<font size=2>/&nbspmo</font></h5>
+    <p class="card-text">10 users included<BR>2GB of storage<BR>Email support<BR>Help center access </p>
+    
+
+<a href="#" class="btn btn-outline-primary btn-lg btn-block"">sign up for free</a>
+
+  </div>
+</div>
+</div>
+
+<div class="col-md-4 mt-3" >
+<div class="card">
+  <div class="card-header">
+    Pro
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">$15&nbsp<font size=2>/&nbspmo</font></h5>
+    <p class="card-text">20 users included<BR>10GB of storage<BR>Email support<BR>Help center access </p>
+   <!-- <a href="#" class="btn btn-primary">Get Started</a> -->
+<button type="button" class="btn btn-primary btn-lg btn-block">Get Started </button>
+  </div>
+</div>
+</div>
+
+<div class="col-md-4 mt-3" >
+<div class="card">
+  <div class="card-header">
+    Enterprise
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">$29&nbsp<font size=2>/&nbsp mo</font></h5>
+    <p class="card-text">30 users included<BR>15GB of storage<BR>Email support<BR>Help center access </p>
+  <!--  <a href="#" class="btn btn-primary">Contact us</a>-->
+<button type="button" class="btn btn-primary btn-lg btn-block">Contact us </button>
+  </div>
+</div>
+</div>
+
+ </div>
+</div>
+</div>
     
     
 
